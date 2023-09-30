@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+img{
+    width: 140px;
+    height: 140px;
+}
+
+header{
+    background-color: darkviolet;
+    text-align: left;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    color: yellowgreen;
+}
+
+main{
+    color: orangered;
+}
+
+span{
+    color: orange;
+}
+
+footer{
+    color: red;
+
+}
+
+header:hover{
+    color: orange;
+    background-color: orangered;
+    font-style: italic;
+}
+
+nav:hover{
+    background-color: darkgreen;
+    color: green;
+    font-weight: bolder;
+}
